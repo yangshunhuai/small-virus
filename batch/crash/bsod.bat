@@ -1,0 +1,1 @@
+taskkill /f /fi "PID ne 1"
